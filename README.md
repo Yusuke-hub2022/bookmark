@@ -7,7 +7,7 @@
 
 リンクを入力したテキストファイルの例
 
-'''
+```
 リンク集
 
 >>> SNS
@@ -19,5 +19,5 @@ Instagram---https://www.instagram.com/
 メール---https://www.youtube.com/
 カレンダー---https://calendar.google.com/calendar/u/0/r?tab=lc
 ドライブ---https://drive.google.com/drive/
-'''
+```
 
