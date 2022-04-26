@@ -21,3 +21,10 @@ Instagram---https://www.instagram.com/
 ドライブ---https://drive.google.com/drive/
 ```
 
+## 使い方
+
+コマンドライン
+
+```
+python src/bookmark.py <テキストファイル> <保存先ディレクトリ>
+```
