@@ -10,7 +10,7 @@
 ```
 title---リンク集
 
->>> SNS  ;;'>>>'の後にグループ名
+>>> SNS  ;;グループに分けることができる。'>>>'に続けてグループ名
 YouTube---https://www.youtube.com/  ;;'---' で区切る
 Twitter---https://twitter.com/
 Instagram---https://www.instagram.com/
