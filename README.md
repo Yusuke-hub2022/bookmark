@@ -1,7 +1,7 @@
 # Bookmark
-リンク集のhtmlページ
+htmlのリンク集を作る
 
-リンクを入力したテキストファイルから、htmlファイルを生成します。
+ブックマークをwebページとして作るためのツール。テキストファイルにリンクを入力した後、ツールを実行してhtmlファイルを生成します。
 
 ## デモ
 
@@ -10,10 +10,8 @@
 ```
 title---リンク集
 
-;;グループに分けることができる。'>>>'に続けてグループ名
-
 >>> SNS
-YouTube---https://www.youtube.com/  ;;タイトルとURLを'---' で区切る
+YouTube---https://www.youtube.com/
 Twitter---https://twitter.com/
 Instagram---https://www.instagram.com/
 
@@ -21,8 +19,6 @@ Instagram---https://www.instagram.com/
 メール---https://www.youtube.com/
 カレンダー---https://calendar.google.com/calendar/
 ドライブ---https://drive.google.com/drive/
-
-;;  ';;'でコメント可
 ```
 
 ## 使い方
@@ -33,8 +29,9 @@ Instagram---https://www.instagram.com/
 python bookmark.py テキストファイル [保存先ディレクトリ]
 ```
 
-## 特徴
+## その他機能
 
+- 「;;」に続けてコメントの入力ができる。
 - htmlファイルはローカルに置いても使える。Vue.jsではできなかった。
 - CSSの編集可。（css/style.css）
-- CSS内に限り、FontAwsome を使うことができる。
+- CSS内で、FontAwsome 使用可。
