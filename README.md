@@ -22,6 +22,12 @@ Instagram---https://www.instagram.com/
 ドライブ---https://drive.google.com/drive/
 ```
 
+そしてコマンドラインでプログラムを実行する。
+
+```
+$ python bookmark.py links.txt
+```
+
 すると、下記の inks.html が生成される。
 
 ```
