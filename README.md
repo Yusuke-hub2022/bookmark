@@ -9,7 +9,7 @@ htmlのリンク集を作る
 リンクをテキストファイルに入力する。
 
 ```
-titleリンク集
+title: リンク集
 
 >>> SNS
 YouTube---https://www.youtube.com/
