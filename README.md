@@ -8,7 +8,7 @@
 リンクを入力したテキストファイルの例
 
 ```
-リンク集
+title---リンク集
 
 >>> SNS
 YouTube---https://www.youtube.com/
