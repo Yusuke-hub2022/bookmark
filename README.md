@@ -8,11 +8,11 @@
 リンクを入力したテキストファイルの例
 
 ```
-;;   ';;'でコメント可
+;;  ';;'でコメント可
 
 title---リンク集
 
->>> SNS ;; グループ名
+>>> SNS  ;;グループ名
 YouTube---https://www.youtube.com/  ;;'---' で区切る
 Twitter---https://twitter.com/
 Instagram---https://www.instagram.com/
