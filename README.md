@@ -27,14 +27,14 @@ Instagram---https://www.instagram.com/
 
 ## 使い方
 
-コマンドライン
+コマンドラインで以下を実行
 
 ```
 python bookmark.py テキストファイル [保存先ディレクトリ]
 ```
 
-GUI
+## 特徴
 
-```
-python bookmark
-```
+- ローカルファイルとしても使える。Vue.js を使うつもりだったものの制限があった。
+- CSSの編集可。（css/style.css）
+- CSS内に限り、FontAwsome を使うことができる。
