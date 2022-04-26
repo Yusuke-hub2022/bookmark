@@ -17,7 +17,7 @@ Instagram---https://www.instagram.com/
 
 >>> Google
 メール---https://www.youtube.com/
-カレンダー---https://calendar.google.com/calendar/u/0/r?tab=lc
+カレンダー---https://calendar.google.com/calendar/
 ドライブ---https://drive.google.com/drive/
 ```
 
