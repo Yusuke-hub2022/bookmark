@@ -8,8 +8,6 @@
 リンクを入力したテキストファイルの例
 
 ```
-;;  ';;'でコメント可
-
 title---リンク集
 
 >>> SNS  ;;グループ名
@@ -21,6 +19,8 @@ Instagram---https://www.instagram.com/
 メール---https://www.youtube.com/
 カレンダー---https://calendar.google.com/calendar/
 ドライブ---https://drive.google.com/drive/
+
+;;  ';;'でコメント可
 ```
 
 ## 使い方
