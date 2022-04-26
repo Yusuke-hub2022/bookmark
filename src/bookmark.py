@@ -239,7 +239,7 @@ a:hover {
         cssFile.write_text(self.code, encoding='utf-8')
 
     
-Usage = '\nUsage: python bookmark.py source [dist]\n'
+Usage = '\nUsage: python bookmark.py source [destination]\n'
 
 def main(args):
     if len(args) < 2:
