@@ -208,7 +208,7 @@ li {
 li::before {
     font-family: "Font Awesome 6 Free";
     font-weight: 900;
-    content: "\f138";
+    content: '\\f138';
     position: absolute;
     left: 0.5em;
     top: 0.5em;
