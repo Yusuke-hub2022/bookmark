@@ -26,5 +26,5 @@ Instagram---https://www.instagram.com/
 コマンドライン
 
 ```
-python src/bookmark.py <テキストファイル> <保存先ディレクトリ>
+python src/bookmark.py テキストファイル [保存先ディレクトリ]
 ```
