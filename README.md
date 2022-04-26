@@ -1,2 +1,2 @@
 # bookmark
-Make a html page having links. Links are written in a JavaScript file.
+This program generate a html file having links. Links are written in a text file.
