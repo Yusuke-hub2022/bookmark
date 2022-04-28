@@ -22,7 +22,7 @@ Instagram---https://www.instagram.com/
 ドライブ---https://drive.google.com/drive/
 ```
 
-そしてコマンドラインでプログラムを実行します。
+コマンドラインでプログラムを実行します。
 
 ```
 $ python bookmark.py links.txt
